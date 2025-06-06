@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/QuynhGiangIT.github.io/static/css/main.f855e6bc.css",
-    "main.js": "/QuynhGiangIT.github.io/static/js/main.715d53f2.js",
+    "main.js": "/QuynhGiangIT.github.io/static/js/main.df1461c1.js",
     "static/js/453.acca0757.chunk.js": "/QuynhGiangIT.github.io/static/js/453.acca0757.chunk.js",
     "static/media/logo.svg": "/QuynhGiangIT.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/QuynhGiangIT.github.io/index.html",
     "main.f855e6bc.css.map": "/QuynhGiangIT.github.io/static/css/main.f855e6bc.css.map",
-    "main.715d53f2.js.map": "/QuynhGiangIT.github.io/static/js/main.715d53f2.js.map",
+    "main.df1461c1.js.map": "/QuynhGiangIT.github.io/static/js/main.df1461c1.js.map",
     "453.acca0757.chunk.js.map": "/QuynhGiangIT.github.io/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.715d53f2.js"
+    "static/js/main.df1461c1.js"
   ]
 }
